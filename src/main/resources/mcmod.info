@@ -1,0 +1,16 @@
+[
+{
+  "modid": "catserverpatch",
+  "name": "Cat Server Patch Mod",
+  "description": "Add chat event hooks to Cat Server",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Team-Fruit/CatServerPatchMod",
+  "updateUrl": "https://github.com/Team-Fruit/CatServerPatchMod/releases",
+  "authorList": ["Kamesuta"],
+  "credits": "2020 TeamFruit",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
